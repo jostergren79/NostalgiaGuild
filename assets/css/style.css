@@ -1,3 +1,65 @@
-.jumbotron {
-    background-color: green;
+body {
+    color: white;
+    color: white;
+    border-style: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
+
+header {
+    align-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: xx-large;
+    font-style: bold;
+    background: teal;
+    color: white;
+    border-style: solid;
+    border-color: gold;
+    border-width: 3px;
+
+}
+
+
+form {
+    align-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: teal;
+    color: white;
+    border-style: solid;
+    border-color: gold;
+    border-width: 3px;
+
+
+
+}
+
+.form-row {
+    align-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    color: white;
+    border-style: solid;
+    border-color: gold;
+    border-width: 3px;
+
+
+
+
+}
+
+.btn {
+    
+}
+
+
